@@ -1,45 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Hebrew Test",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",BabyFirst
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Channel 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Channel 16
-https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Channel 9
-https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Comedy Channel
-https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Good Life
-http://stream.mcquack.net/47/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Hala TV
-https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Hidabroot
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",HOT Drama
+#EXTINF:-1 tvg-id="hebrew-http-1" tvg-name="Angel TV" group-title="Israel HTTP Test",Angel TV
+http://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-2" tvg-name="Channel 16" group-title="Israel HTTP Test",Channel 16
+http://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-3" tvg-name="Channel 9" group-title="Israel HTTP Test",Channel 9
+http://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-4" tvg-name="Hala TV" group-title="Israel HTTP Test",Hala TV
+http://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-5" tvg-name="Hidabroot" group-title="Israel HTTP Test",Hidabroot
+http://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-6" tvg-name="HOT Drama" group-title="Israel HTTP Test",HOT Drama
 http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",HOT Zone
+#EXTINF:-1 tvg-id="hebrew-http-7" tvg-name="HOT Zone" group-title="Israel HTTP Test",HOT Zone
 http://stream.mcquack.net/379/index.m3u8
-#EXTINF:-1 group-title="Hebrew Test",i24NEWS Arabic
-https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
-#EXTINF:-1 group-title="Hebrew Test",i24NEWS French
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="Hebrew Test",i24NEWS Hebrew
-https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Kabbalah for the People Israel
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Makan 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Now 14
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Reality Channel
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Shelanu.TV
-https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Vacation Channel
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
-#EXTINF:-1 group-title="Hebrew Test",Zoom
-http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-8" tvg-name="i24NEWS Arabic" group-title="Israel HTTP Test",i24NEWS Arabic
+http://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-9" tvg-name="i24NEWS French" group-title="Israel HTTP Test",i24NEWS French
+http://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-10" tvg-name="i24NEWS Hebrew" group-title="Israel HTTP Test",i24NEWS Hebrew
+http://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-11" tvg-name="Now 14" group-title="Israel HTTP Test",Now 14
+http://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="hebrew-http-12" tvg-name="Shelanu.TV" group-title="Israel HTTP Test",Shelanu.TV
+http://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
